@@ -1,6 +1,6 @@
 # JobBluePrint
 ## Forward
-
+![alt text](https://raw.githubusercontent.com/mda1125/JobBluePrint/main/dream-job-2904780_640.jpg "Finding Your Next Job")
 If you are reading this, it’s because somebody told you about this place for whatever reason. Glad you’re here! If you’ve been out of the job market for any length of time … it’s not the same.
 
 Technology has made it easier to apply to a billion jobs and made it easier not to be seen for any of them. Applicant Tracking Systems (ATS) are the thing and they come in all shapes and sizes. Hardly anybody reads your resume until you are in the chair, being interviewed on-site! (no seriously)

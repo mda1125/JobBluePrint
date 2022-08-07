@@ -10,7 +10,8 @@ Technology has made it easier to apply to a billion jobs and made it easier not 
 Your job from here on out will be to clean up your LinkedIn profile, build a better resume and become an expert at seeking opportunities and interviewing for them.
 
 
-Connect with Me:
+### Connect with Me:
+
 [https://www.linkedin.com/in/marccdavid/](https://)
 
 It will help us have conversations about your profile. When you do send a connection request, Please Please tell me WHY you want to connect. Add a custom message. “Hey Marc…. Neat website! I liked your LinkedIn tips. That’s how I found you. I’d like to connect.”
@@ -21,7 +22,7 @@ It will help us have conversations about your profile. When you do send a connec
 That is how you network and it makes it personal! It will help me make this outline better, correct mistakes, add and delete. It also will separate random connections from very specific ones.
 
 
-There’s Good News and Bad News
+## There’s Good News and Bad News
 
 Gone are the days of a quick interview, a smile and a handshake, some random questions and you talk money. “Glad to have you. See you Monday.”
 
@@ -37,7 +38,7 @@ Here are the days of multiple phone screens, hours long on-sites and week(s) of 
 Here are the days of gatekeepers that have not a clue what the hiring manager wants and certain has no idea what you’re talking about. But if you use the right buzzwords, you can get past them.
 
 
-What Can You Do?!
+## What Can You Do?!
 
 
 So what can you do? Lots! First, unless you flat out know somebody who is willing to hire you or give you an immediate consulting gig, you are in for a long journey. Of course there are variables and exceptions but don’t expect something quick. It might be Job Applied #10 or Job Applied #200 or somewhere in between.
@@ -50,6 +51,8 @@ How Long is Long?
 
 
 It took me 7 months of dedicated, focused job searching and 84 targeted job applications to land 1.
+
+More recently, I worked with a client and it took 37 days and 48 targeted jobs applications to land 3!
 
 
 I had several phone screens and 7 on-sites. Those type of on-sites were foreign to me at the time and many of them were multiple people taking up half a day to a full day. But if you keep reading, those experiences will shape you, give you insight to the next interview, make you more confident, less anxious and nervous and eventually you’ll be the perfect person for the position!

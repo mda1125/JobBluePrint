@@ -9,7 +9,6 @@ Technology has made it easier to apply to a billion jobs and made it easier not 
 
 Your job from here on out will be to clean up your LinkedIn profile, build a better resume and become an expert at seeking opportunities and interviewing for them.
 
-
 ### Connect with Me:
 
 [https://www.linkedin.com/in/marccdavid/](https://)
@@ -70,9 +69,9 @@ I was selective in where I posted my information and I was quick to delete or re
 I ALWAYS ended up applying direct to the company website even if I found the job on a board. It just felt like I could customize certain responses better and control the input.
 
 
-Always posted my tweaked profile (unless sites like Indeed said the one I had uploaded was a match).
++ Always posted my tweaked profile (unless sites like Indeed said the one I had uploaded was a match).
 
-Always included a Cover Letter (tweak per job one I created my baseline).
++ Always included a Cover Letter (tweak per job one I created my baseline).
 
 
 

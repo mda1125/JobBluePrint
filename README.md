@@ -1,5 +1,5 @@
 # JobBluePrint
-**Forward**
+*Forward*
 
 If you are reading this, it’s because somebody told you about this place for whatever reason. Glad you’re here! If you’ve been out of the job market for any length of time … it’s not the same.
 

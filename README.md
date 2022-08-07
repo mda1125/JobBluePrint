@@ -3,9 +3,7 @@
 
 If you are reading this, it’s because somebody told you about this place for whatever reason. Glad you’re here! If you’ve been out of the job market for any length of time … it’s not the same.
 
-
 Technology has made it easier to apply to a billion jobs and made it easier not to be seen for any of them. Applicant Tracking Systems (ATS) are the thing and they come in all shapes and sizes. Hardly anybody reads your resume until you are in the chair, being interviewed on-site! (no seriously)
-
 
 Your job from here on out will be to clean up your LinkedIn profile, build a better resume and become an expert at seeking opportunities and interviewing for them.
 
@@ -17,9 +15,7 @@ It will help us have conversations about your profile. When you do send a connec
 
 99% of my connections to date are straight connections or sales... there's just no reason for me to add you to my network and so I don't.  Adding a personal note can go a long long way to making the Accept happen.
 
-
 That is how you network and it makes it personal! It will help me make this outline better, correct mistakes, add and delete. It also will separate random connections from very specific ones.
-
 
 ## There’s Good News and Bad News
 
@@ -33,71 +29,50 @@ Here are the days of unprofessional recruiters grabbing your name and resume ASA
 
 Here are the days of multiple phone screens, hours long on-sites and week(s) of waiting to hear back IF you hear back. It’s super frustrating. Your time expectations are nowhere in the realm of the other side. A day to you feels like an eternity whereas to them, you are a blip on the radar, a name in a stack.
 
-
 Here are the days of gatekeepers that have not a clue what the hiring manager wants and certain has no idea what you’re talking about. But if you use the right buzzwords, you can get past them.
-
 
 ## What Can You Do?!
 
-
 So what can you do? Lots! First, unless you flat out know somebody who is willing to hire you or give you an immediate consulting gig, you are in for a long journey. Of course there are variables and exceptions but don’t expect something quick. It might be Job Applied #10 or Job Applied #200 or somewhere in between.
 
-
 How Long is Long?
-
 
 4 months if you’ve got major bonus points like Veteran status and 17+ if you are older, a very competitive market, command a large salary, etc. Maybe it will be faster for you. Maybe longer. Doesn’t matter. Petal to the metal until you find a fit. It doesn’t mean anything if you get a job quick or it takes much longer. It says nothing about you! Remember that one because after you’ve been looking for over 3 months, you start to think it’s you. I can assure you in 90% of the cases, if you are serious about career hunting and you are putting forth the effort, it is not you.
 
 
-It took me 7 months of dedicated, focused job searching and 84 targeted job applications to land 1.
-
-More recently, I worked with a client and it took 37 days and 48 targeted jobs applications to land 3!
-
++ It took me 7 months of dedicated, focused job searching and 84 targeted job applications to land 1.
++ More recently, I worked with a client and it took 37 days and 48 targeted jobs applications to land 3
 
 I had several phone screens and 7 on-sites. Those type of on-sites were foreign to me at the time and many of them were multiple people taking up half a day to a full day. But if you keep reading, those experiences will shape you, give you insight to the next interview, make you more confident, less anxious and nervous and eventually you’ll be the perfect person for the position!
 
-
 I tell people that in my opinion, it felt more like I was going for acting gigs than an actual job interview. I had to figure out what those people across from me wanted in a candidate and be that person. I wasn’t worried about my technical skills. But they know nothing about you and it’s up to you to convince them otherwise. How do I convince these people I am the person for this role.
 
-
-Where Do You Find Jobs?
-
+### Where Do You Find Jobs?
 
 I was selective in where I posted my information and I was quick to delete or remove my profile if I was getting contacted by too many inept recruiters. I started with LinkedIn and eventually landed the job via Indeed. It really depends on your industry. Being in the tech field, it was much easier I think to find and apply for those type of jobs than others but not impossible. Look to industry type job boards via a Google or DuckDuckGo search.
-
 
 I ALWAYS ended up applying direct to the company website even if I found the job on a board. It just felt like I could customize certain responses better and control the input.
 
 
 + Always posted my tweaked profile (unless sites like Indeed said the one I had uploaded was a match).
-
 + Always included a Cover Letter (tweak per job one I created my baseline).
-
-
 
 Websites that Will Make Your Job Search Easiser:
 
-
 [https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/](https://)
-
 
 ## The 4 Things You Will Do From Here on Out
 
 1. Your Job is to Find a Job
-
 2. You Will Become a Professional at Seeking
-
 3. You Will Become an Expert at Interviewing
-
 4. You Will Social Engineer Your Way In (within reason of course!)
-
 5. You will become a good storyteller (think STAR technique mentioned later in this guide)
 
 
-So Let’s Do This!
+**So Let’s Do This!**
 
 Alright, enough chit chat. You might be seeking while in a job (that’s the best) or you quit and are looking or laid off and are anxious, excited.. or frustrated, pissed, depressed.. in the end, everybody goes through the stages. I had plenty of wild highs and super lows. What makes this work is the system outlined below, being a robot about it and moving forward at all costs no matter the setbacks. Eventually and I speak from experience, you will take nothing personal and you’ll be so busy, that after your on-site you’ll be too busy making plans for the next to worry about if they’ve gotten back to you or not.
-
 
 CLARITY… do not even begin this without being able to answer the question “what is it that I want to do.” When somebody says “Hey, what do you do?” You say… XXXX
 
@@ -107,10 +82,7 @@ If you need help, see this blog post on How to Pick a Career
 
 [https://waitbutwhy.com/2018/04/picking-career.html](https://)
 
-
 If you have no idea what you want to pursue, then it will be impossible to move forward. Even picking a background photo makes no sense if you don’t have an idea of what it is you desire to do.
-
-
 
 How Build a Professional LinkedIn Profile
 
@@ -156,11 +128,11 @@ I found this post helpful in my search:
 
 
 Title:
-Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist
+Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist | Dad Wife Husband Father
 
 CRAP!
 
-1-2 very focused keywords that are a title of the job you desire to do.
+1-2 very focused keywords that are a title of the job you desire to do.  Recruiters look to fill jobs, not find an out of work great dad or best mom in the world.
 
 Remove where you currently work if it shows in your title
 
@@ -552,6 +524,6 @@ https://www.livecareer.com/career/advice/interview/sample-thank-you-letters
 https://www.businessnewsdaily.com/5578-sample-thank-you-letters.html
 
 Privacy Policy
-There are on tracking scripts of any kind of this site. There are no ads. I am asking for anything and I am collecting nothing. I do not rent or sell anything obtained from this site.
+There are on tracking scripts of any kind of this site. There are no ads. I am asking for anything and I am collecting nothing. I do not rent or sell anything obtained from this site.  This site is hosted on Github.
 
 All Rights Reserved Copyright 2022

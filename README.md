@@ -54,8 +54,8 @@ I was selective in where I posted my information and I was quick to delete or re
 I ALWAYS ended up applying direct to the company website even if I found the job on a board. It just felt like I could customize certain responses better and control the input.
 
 
-+ Always posted my tweaked profile (unless sites like Indeed said the one I had uploaded was a match).
-+ Always included a Cover Letter (tweak per job one I created my baseline).
++ Always submitted my tweaked resume
++ Always included a Cover Letter if you can
 
 Websites that Will Make Your Job Search Easiser:
 
@@ -92,40 +92,29 @@ Grab a free background photo from this website:
 
 [https://pixabay.com/](https://)
 
-
 Look for a photo that within 3 seconds or less.. says to anybody looking at it..
-
 
 This is what I do
 
-
 If you look at mine: [https://www.linkedin.com/in/marccdavid/](https://)
-
 
 You should thinking.. Computer security stuff? Something to do with cyber crime? IT?
 
-
 Yup.. and when a recruiter is looking, that image keeps them moving down the page. I don’t want them to see a family trip, me rafting, working out.. etc.. and even question why am I looking at this person when I need a cyber security guy, cyber crime dude. I’m that guy!
-
 
 Get a photo that says.. This is What I Do. It doesn’t have to be 100% specific.. if you are in the tech industry.. get anything that says I do stuff with computers. If you are a truck driver, get something that says I do things with trucks/autos/cars. If you are in manufacturing, get a warehouse that says I work with products in bulk in warehouses. Whatever. Be as close as you can. I know tech is easier. Heck, make your own if so inclined that just has a nice background and words saying what it is you do.
 
-
 Again, not exact unless you can find it but something that immediately gives the impression to whomever is looking that I am the person to do that!
-
 
 Profile Photo:
 
 Get a professional photo done, have a friend take one of your shoulders and higher. Or a closer head shot. SMILING. Giving the impression this is a person I could work with. No tuxes. No wedding photos. No you holding your kid(s). No couple shots. It’s a professional website and YOU are in job seeking mode. Mine isn’t the best. But it’s good. I cropped it from a recent family photo shoot. Do something similar.
 
-
 There are blogs, pages and sections of entire books about this. Just have or get a nice, higher quality good looking, fresh haircut.. photo. People judge. Don’t give them a single reason not to keep looking because you have a goofy photo.
-
 
 I found this post helpful in my search:
 
 [https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries/](https://)
-
 
 Title:
 Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist | Dad Wife Husband Father
@@ -141,17 +130,12 @@ If you need ideas, look at the Job icon in LinkedIn and search for careers, titl
 
 Why save jobs? Because in a few weeks if not today, you’ll have a very large list of keyword rich titles, bullet points, descriptions you can use all thru your own profile to build the perfect profile that matches you up with all these positions.
 
-Save Job
-
-Look at Job
-
-Look for Titles
-
-Look for Keywords
+1. Save Job
+2. Look at Job
+3. Look for Titles
+4. Look for Keywords
 
 Take a few lines here and there and use them as you see fit in your profile, your summary and your resume.
-
-
 
 Let others do the work for you! I’m not advocating your copy and paste although you can. It’s just a quick way to get the writing done for you.
 
@@ -168,8 +152,6 @@ You can use the Job link on LinkedIn to look for positions.. see what gets popul
 Recruiters are looking for Windows Administrator, SharePoint Developers, Information Security Analyst, etc etc. The jobs are listed and you need to use the titles of the job that most closely matches your desired position.
 
 There is no need to make up titles or keyword stuff. What you seek has already been done for you. Go look, copy 1-2 precise terms of the job you desire to do that are keywords of titles of jobs that are open.
-
-
 
 Tip:
 
@@ -238,13 +220,9 @@ Now you’ve got some Job A expertise and potentially an overlap in the working 
 Here’s what you do!
 
 1. Get a decent name. Can be anything but make it a company name. It can be your last name but then it’s super obvious you’re doing your own thing.
-
 2. Get a logo
-
 3. Create a business page on LinkedIn for your company (nobody does this)
-
 4. Add the logo to the business page. Create content for that page.
-
 5. In your profile, link yourself to that company business page and give it a realistic timeline. If you started it 4 years ago, fine… so be it. Now you’ve got an overlap from Job A to Job B but that’s easily explained. It’s a side gig you love doing, it didn’t conflict, something happened, you took your gig full time but now you really want to be part of a team.
 
 This can be tricky. But if you are doing Construction and suddenly want to go immediately into a new career.. it’s going to make a transition hard. Hiring managers don’t want to take chances anymore and they really won’t want to take a chance of somebody making a really obvious massive career shift.
@@ -308,8 +286,6 @@ I can’t recommend this app enough. If you use your personal cell phone, it wil
 Interests
 This rounds out your profile. Join relevant groups. Follow companies. It makes you look like a person who has interests, participates in groups and follows companies in your industry. I don’t honestly think it matters much since it’s so far down but whatever you can do to round out your profile, do it. And maybe there is a group that would be helpful and you should participate. This is part of networking and without that, LinkedIn doesn’t work much. So join groups and follow some companies. Not a ton of them but 10-15 groups and 10 companies in your desired field should be a great start to get your feed populated with some decent posts and networking opportunities.
 
-
-
 Before You Proceed ….
 
 Salary Negotiation
@@ -326,8 +302,6 @@ I think it’s imperative you read this site as much as possible to create your 
 I kicked it back to them and they told me which allowed me to see if the offer was too low. It also allowed to start negotiation immediately.
 
 Personally I didn’t find it helpful to talk about numbers when more than half of these things lead nowhere anyway. But it does help to see if it’s a really low paying position, you might as well end the call unless you really really love the job description or are desperate. Having a script really was easy and the default on this site worked great.
-
-
 
 Career Counseling
 If you’re company offered it or offers it … take advantage of it. At least to get a resume review and to attend some classes on what’s changed in this landscape. If you are going to pay for any service, it’s a resume writing service. Don’t pay for career sites or follow these mass follow me and I’ll promote you to my massive network schemes you’ll run across. Stick to your resume and applying for positions. All these other things are distractions and they are selling a product. You have no need for that nor the time.
@@ -356,10 +330,7 @@ Especially when people asked how’s it going or a recruiter wanted to know if y
 
 This will be your one stop shop for what to apply for, what have I applied for, where did I get rejected, what’s coming up.
 
-
-
 How to Build Your Perfect Resume
-
 
 The Find & Save Job Method
 This one technique will literally re-write your resume!
@@ -376,19 +347,12 @@ It’s right in front of you! Saved Jobs are what will work because it’s what 
 
 To Recap:
 
-save jobs
-
-pull lines you like
-
-grab keywords
-
-scope out titles and see if your title could be better
-
-merge into your profile & resume assuming you have or can talk to those skills
-
-take out lines and mediocre responsibilities and add in powerful attention grabbing talking points
-
-
++ save jobs
++ pull lines you like
++ grab keywords
++ scope out titles and see if your title could be better
++ merge into your profile & resume assuming you have or can talk to those skills
++ take out lines and mediocre responsibilities and add in powerful attention grabbing talking points
 
 You’ll take your resume to the level it needs to be. A very well crafted calling card to get you in front of people who are looking for your skill set.
 
@@ -449,7 +413,6 @@ I need to detail this out. But what you’ll hear in these interviews are situat
 
 STAR Answer Format
 
-
 The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of what you're describing. Many places will ask for this type of format or maybe a SOAR (Situation, Objective, Action, Result). Esentially it’s a method of figuring out if what you did, fits the culture. A series of behavior questions to see if you fit the company’s principles. Plus it’s a way to understand bullet points in your resume.
 
 I was told early on, you can never have enough of these type stories. It helps communicate your abilities to an interview panel.
@@ -474,17 +437,11 @@ RESULT
 
 Describe the outcome of your actions and don’t be shy about taking credit for your behavior. What happened? How did the event end? What did you accomplish? What did you learn? Provide examples using metrics or data if applicable.
 
-
-
 In Conclusion
-
 
 Need to sum it up.
 
-
-
 Resources
-
 
 Amazon Interview Insights:
 
@@ -510,10 +467,7 @@ Salary Negotiation:
 
 https://fearlesssalarynegotiation.com/
 
-
-
 Sample Thank You Letters
-
 
 https://www.careercontessa.com/advice/interview-thank-you-email-letter/
 

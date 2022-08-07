@@ -15,13 +15,13 @@ Your job from here on out will be to clean up your LinkedIn profile, build a bet
 
 It will help us have conversations about your profile. When you do send a connection request, Please Please tell me WHY you want to connect. Add a custom message. “Hey Marc…. Neat website! I liked your LinkedIn tips. That’s how I found you. I’d like to connect.”
 
-99% of my connections to date are straight connections or sales... there's just no reason for me to add you to my network and so I don't.  Adding a personal note can go a long long way to making the Accept happen.
+99% of my connection requests are straight connections or sales... there's just no reason for me to add you to my network and so I don't.  Adding a personal note can go a long long way to making the Accept happen.
 
-That is how you network and it makes it personal! It will help me make this outline better, correct mistakes, add and delete. It also will separate random connections from very specific ones.
+That is how you network and it makes it personal! It also will separate random connections from very specific ones.
 
 ## There’s Good News and Bad News
 
-Gone are the days of a quick interview, a smile and a handshake, some random questions and you talk money. “Glad to have you. See you Monday.”
+Gone are the days of a quick interview, a smile and a handshake, some random questions and you talk money. “Glad to have you. See you Monday.”  Unless your CEO with a golden parachute.
 
 Gone are the days of quit on Friday, have 20 offers by noon Monday.
 
@@ -29,18 +29,17 @@ Here are the days of hiring managers not wanting to take a change. Think of it l
 
 Here are the days of unprofessional recruiters grabbing your name and resume ASAP to fire off on some unknowns desk and that you’ll never heard from again. They’ll say whatever to get you so they can look busy. To be fair, if it’s an opportunity you want, you should do whatever you need to do to get past the gatekeeper and in front of a hiring manager.
 
-Here are the days of multiple phone screens, hours long on-sites and week(s) of waiting to hear back IF you hear back. It’s super frustrating. Your time expectations are nowhere in the realm of the other side. A day to you feels like an eternity whereas to them, you are a blip on the radar, a name in a stack.
+Here are the days of multiple phone screens, hours long on-sites / remote interviews with the team and week(s) of waiting to hear back IF you hear back. It’s super frustrating. Your time expectations are nowhere in the realm of the other side. A day to you feels like an eternity whereas to them, you are a blip on the radar, a name in a stack.
 
 Here are the days of gatekeepers that have not a clue what the hiring manager wants and certain has no idea what you’re talking about. But if you use the right buzzwords, you can get past them.
 
 ## What Can You Do?!
 
-So what can you do? Lots! First, unless you flat out know somebody who is willing to hire you or give you an immediate consulting gig, you are in for a long journey. Of course there are variables and exceptions but don’t expect something quick. It might be Job Applied #10 or Job Applied #200 or somewhere in between.
+So what can you do? Lots! First, unless you flat out know somebody who is willing to hire you or give you an immediate consulting gig, you are in for a long journey. Of course there are variables and exceptions but don’t expect something quick. It might be Job Applied #10 or Job Applied #800 or somewhere in between.  Frankly if you are applying for 800 targeted jobs, it might be you and not them.  Which means this guide is even more valuable.
 
-How Long is Long?
+## How Long is Long?
 
-4 months if you’ve got major bonus points like Veteran status and 17+ if you are older, a very competitive market, command a large salary, etc. Maybe it will be faster for you. Maybe longer. Doesn’t matter. Petal to the metal until you find a fit. It doesn’t mean anything if you get a job quick or it takes much longer. It says nothing about you! Remember that one because after you’ve been looking for over 3 months, you start to think it’s you. I can assure you in 90% of the cases, if you are serious about career hunting and you are putting forth the effort, it is not you.
-
+1 month if you’ve got major bonus points like Veteran status plus in an area that is in critical need of qualifed people like yourself and 17+ if you are older, a very competitive market, command a large salary, lateral moves, etc. Maybe it will be faster for you. Maybe longer. Doesn’t matter. Petal to the metal until you find a fit. It doesn’t mean anything if you get a job quick or it takes much longer. It says nothing about you! Remember that one because after you’ve been looking for over 3 months, you start to think it’s you. I can assure you in 90% of the cases, if you are serious about career hunting and you are putting forth the effort, and you've got a top notch resume and LinkedIn presence it is not you.
 
 + It took me 7 months of dedicated, focused job searching and 84 targeted job applications to land 1.
 + More recently, I worked with a client and it took 37 days and 48 targeted jobs applications to land 3
@@ -51,10 +50,9 @@ I tell people that in my opinion, it felt more like I was going for acting gigs 
 
 ### Where Do You Find Jobs?
 
-I was selective in where I posted my information and I was quick to delete or remove my profile if I was getting contacted by too many inept recruiters. I started with LinkedIn and eventually landed the job via Indeed. It really depends on your industry. Being in the tech field, it was much easier I think to find and apply for those type of jobs than others but not impossible. Look to industry type job boards via a Google or DuckDuckGo search.
+I was selective in where I posted my information and I was quick to delete or remove my profile if I was getting contacted by too many inept recruiters. I started with **LinkedIn** and eventually landed the job via **Indeed**. It really depends on your industry. Being in the tech field, it was much easier I think to find and apply for those type of jobs than others but not impossible. Look to industry type job boards via a Google or DuckDuckGo search.
 
-I ALWAYS ended up applying direct to the company website even if I found the job on a board. It just felt like I could customize certain responses better and control the input.
-
+I ALWAYS ended up applying direct to the company website even if I found the job on a board. It just felt like I could customize certain responses better and control the input.  Add additional skills, experience, cover letters, etc.  If it's Easy Apply for you, it's Easy Apply for everybody.
 
 + Always submitted my tweaked resume
 + Always included a Cover Letter if you can
@@ -70,7 +68,6 @@ Websites that Will Make Your Job Search Easiser:
 3. You Will Become an Expert at Interviewing
 4. You Will Social Engineer Your Way In (within reason of course!)
 5. You will become a good storyteller (think STAR technique mentioned later in this guide)
-
 
 **So Let’s Do This!**
 

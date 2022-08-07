@@ -1,2 +1,2 @@
 # JobBluePrint
-The quick start guide to finding your next gig
+The quick start guide to finding your next gig!

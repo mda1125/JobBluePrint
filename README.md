@@ -10,10 +10,12 @@ Technology has made it easier to apply to a billion jobs and made it easier not 
 Your job from here on out will be to clean up your LinkedIn profile, build a better resume and become an expert at seeking opportunities and interviewing for them.
 
 
-Connect with Me
+Connect with Me:
 [https://www.linkedin.com/in/marccdavid/](https://)
 
 It will help us have conversations about your profile. When you do send a connection request, Please Please tell me WHY you want to connect. Add a custom message. “Hey Marc…. Neat website! I liked your LinkedIn tips. That’s how I found you. I’d like to connect.”
+
+99% of my connections to date are straight connections or sales... there's just no reason for me to add you to my network and so I don't.  Adding a personal note can go a long long way to making the Accept happen.
 
 
 That is how you network and it makes it personal! It will help me make this outline better, correct mistakes, add and delete. It also will separate random connections from very specific ones.
@@ -23,15 +25,11 @@ There’s Good News and Bad News
 
 Gone are the days of a quick interview, a smile and a handshake, some random questions and you talk money. “Glad to have you. See you Monday.”
 
-
 Gone are the days of quit on Friday, have 20 offers by noon Monday.
-
 
 Here are the days of hiring managers not wanting to take a change. Think of it like a dating website where “They’re good but let’s see what else is out there.” No rush. Plenty of fish in the sea.
 
-
 Here are the days of unprofessional recruiters grabbing your name and resume ASAP to fire off on some unknowns desk and that you’ll never heard from again. They’ll say whatever to get you so they can look busy. To be fair, if it’s an opportunity you want, you should do whatever you need to do to get past the gatekeeper and in front of a hiring manager.
-
 
 Here are the days of multiple phone screens, hours long on-sites and week(s) of waiting to hear back IF you hear back. It’s super frustrating. Your time expectations are nowhere in the realm of the other side. A day to you feels like an eternity whereas to them, you are a blip on the radar, a name in a stack.
 
@@ -78,7 +76,7 @@ Always included a Cover Letter (tweak per job one I created my baseline).
 Websites that Will Make Your Job Search Easiser:
 
 
-https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/
+[https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/](https://)
 
 
 The 4 Things You Will Do From Here on Out
@@ -105,7 +103,7 @@ I am a Cyber Security Engineer | Information Security Engineer
 
 If you need help, see this blog post on How to Pick a Career
 
-https://waitbutwhy.com/2018/04/picking-career.html
+[https://waitbutwhy.com/2018/04/picking-career.html](https://)
 
 
 If you have no idea what you want to pursue, then it will be impossible to move forward. Even picking a background photo makes no sense if you don’t have an idea of what it is you desire to do.
@@ -118,7 +116,7 @@ Background Photo:
 
 Grab a free background photo from this website:
 
-https://pixabay.com/
+[https://pixabay.com/](https://)
 
 
 Look for a photo that within 3 seconds or less.. says to anybody looking at it..
@@ -127,7 +125,7 @@ Look for a photo that within 3 seconds or less.. says to anybody looking at it..
 This is what I do
 
 
-If you look at mine: https://www.linkedin.com/in/marccdavid/
+If you look at mine: [https://www.linkedin.com/in/marccdavid/](https://)
 
 
 You should thinking.. Computer security stuff? Something to do with cyber crime? IT?
@@ -152,7 +150,7 @@ There are blogs, pages and sections of entire books about this. Just have or get
 
 I found this post helpful in my search:
 
-https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries/
+[https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries/](https://)
 
 
 Title:
@@ -220,7 +218,7 @@ Use keywords you’ve found in saved jobs to add depth to your summary.
 
 I found this profile helpful in my search:
 
-https://www.linkedin.com/in/aaronloo/
+[https://www.linkedin.com/in/aaronloo/](https://)
 
 Interesting reading, very relevant to what he does now, what he can do for you and a short list of powerful keyword rich technology skills. How he got to where he was and what he does on the side. A very good story rich with relevant skills for a current position.
 

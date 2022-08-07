@@ -81,17 +81,17 @@ Websites that Will Make Your Job Search Easiser:
 [https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/](https://)
 
 
-The 4 Things You Will Do From Here on Out
+## The 4 Things You Will Do From Here on Out
 
-Your Job is to Find a Job
+1. Your Job is to Find a Job
 
-You Will Become a Professional at Seeking
+2. You Will Become a Professional at Seeking
 
-You Will Become an Expert at Interviewing
+3. You Will Become an Expert at Interviewing
 
-You Will Social Engineer Your Way In (within reason of course!)
+4. You Will Social Engineer Your Way In (within reason of course!)
 
-You will become a good storyteller (think STAR technique mentioned later in this guide)
+5. You will become a good storyteller (think STAR technique mentioned later in this guide)
 
 
 So Let’s Do This!

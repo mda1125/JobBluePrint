@@ -11,7 +11,7 @@ Your job from here on out will be to clean up your LinkedIn profile, build a bet
 
 ### Connect with Me:
 
-https://www.linkedin.com/in/marccdavid
+[https://www.linkedin.com/in/marccdavid](https://www.linkedin.com/in/marccdavid)
 
 It will help us have conversations about your profile. When you do send a connection request, Please Please tell me WHY you want to connect. Add a custom message. “Hey Marc…. Neat website! I liked your LinkedIn tips. That’s how I found you. I’d like to connect.”
 

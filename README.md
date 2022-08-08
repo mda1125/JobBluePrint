@@ -11,7 +11,7 @@ Your job from here on out will be to clean up your LinkedIn profile, build a bet
 
 ### Connect with Me:
 
-[https://www.linkedin.com/in/marccdavid/](https://)
+[https://www.linkedin.com/in/marccdavid/]
 
 It will help us have conversations about your profile. When you do send a connection request, Please Please tell me WHY you want to connect. Add a custom message. “Hey Marc…. Neat website! I liked your LinkedIn tips. That’s how I found you. I’d like to connect.”
 
@@ -59,7 +59,7 @@ I ALWAYS ended up applying direct to the company website even if I found the job
 
 Websites that Will Make Your Job Search Easiser:
 
-[https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/](https://)
+[https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/]
 
 ## The 4 Things You Will Do From Here on Out
 
@@ -79,7 +79,7 @@ I am a Cyber Security Engineer | Information Security Engineer
 
 If you need help, see this blog post on How to Pick a Career
 
-[https://waitbutwhy.com/2018/04/picking-career.html](https://)
+[https://waitbutwhy.com/2018/04/picking-career.html]
 
 If you have no idea what you want to pursue, then it will be impossible to move forward. Even picking a background photo makes no sense if you don’t have an idea of what it is you desire to do.
 
@@ -89,13 +89,13 @@ Background Photo:
 
 Grab a free background photo from this website:
 
-[https://pixabay.com/](https://)
+[https://pixabay.com/]
 
 Look for a photo that within 3 seconds or less.. says to anybody looking at it..
 
 This is what I do
 
-If you look at mine: [https://www.linkedin.com/in/marccdavid/](https://)
+If you look at mine: [https://www.linkedin.com/in/marccdavid/]
 
 You should thinking.. Computer security stuff? Something to do with cyber crime? IT?
 
@@ -113,7 +113,7 @@ There are blogs, pages and sections of entire books about this. Just have or get
 
 I found this post helpful in my search:
 
-[https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries/](https://)
+[https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries/]
 
 Title:
 Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist | Dad Wife Husband Father
@@ -173,7 +173,7 @@ Use keywords you’ve found in saved jobs to add depth to your summary.
 
 I found this profile helpful in my search:
 
-[https://www.linkedin.com/in/aaronloo/](https://)
+[https://www.linkedin.com/in/aaronloo/]
 
 Interesting reading, very relevant to what he does now, what he can do for you and a short list of powerful keyword rich technology skills. How he got to where he was and what he does on the side. A very good story rich with relevant skills for a current position.
 
@@ -237,7 +237,7 @@ By using this technique even if it’s for the same type of work.. you’ll have
 It’s not lying if you’re doing it and it’s a way to make a transition easier.
 
 Get a Business Name & Logo with this Fiverr Gig
-[https://www.fiverr.com/share/ApDX5](https://)
+[https://www.fiverr.com/share/ApDX5]
 
 Education
 Just add in whatever schools you attended. Not much to put here. Do not include your high school unless you are a high school graduate looking for internship work.
@@ -272,7 +272,7 @@ This is a great time to talk about an app I love and used 100% for the job searc
 
 Get the app called Sudo for the iPhone!
 
-[https://mysudo.com/](https://)
+[https://mysudo.com/]
 
 Create a card, and pick a phone number and email address. This will be the email and phone number you put on your resume and on LinkedIn for the contact details.
 
@@ -292,7 +292,7 @@ Take a look at this website that will help you create a script for salary negoti
 
 There’s a formula for this stuff including a counter offer. This site helped me get a good talking point script down and a good mindset of how to approach the salary question. In the end, I bought the $47 template pack when I was offered a job (lower than what I wanted) and the counter offer template got me an extra $15,000 a year. So I’d say the $47 was money very well spent.
 
-[https://fearlesssalarynegotiation.com/](https://)
+[https://fearlesssalarynegotiation.com/]
 
 I think it’s imperative you read this site as much as possible to create your script. When you talk to recruiters, they’ll want you to answer a number right away. They are gatekeepers. If you blurt out a number, you may low-ball yourself. Best to just stick to a script to avoid a number especially when you’ve heard nothing about the opportunity!
 
@@ -319,7 +319,7 @@ I don’t think my Facebook page had anything negative at all. But recruiters or
 In my methodical approach, I wanted to eliminate anything I couldn’t control.
 
 The Job Hound
-[https://jobhound.io/](https://)
+[https://jobhound.io/]
 
 This helped keep track of the places I needed to apply, places I applied, what was in the queue, etc. It’s simple, it’s free and you’ll do just the basics of keeping track of what’s happening.
 
@@ -360,7 +360,7 @@ At this point you will save this version of your resume as a Baseline. It’s wh
 
 I had about 50 versions of my resume! I’d take my baseline, look at a job, copy and paste my resume and their job description and see if I could write my resume better to match what they were looking for in the position. Does it work? It doesn’t hurt. It might get you past the ATS (Applicant Tracking System) when some computer is looking for a high percentage of matches on keywords.
 
-My go to site was [https://jobscan.co](https://)
+My go to site was [https://jobscan.co]
 
 I’d take my baseline, their job description, and see how I scored. Then I’d add in and remove and re-write as much as possible within reason to get a higher score. I saved my new resume in a folder for that company and that is what I used to apply. Always keeping my baseline fresh and updated in general but using this method per position.
 

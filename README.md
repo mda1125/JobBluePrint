@@ -57,9 +57,7 @@ I ALWAYS ended up applying direct to the company website even if I found the job
 + Always submitted my tweaked resume
 + Always included a Cover Letter if you can
 
-Websites that Will Make Your Job Search Easiser:
-
-[https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier/]
+[Websites that Will Make Your Job Search Easiser](https://www.reddit.com/r/jobs/comments/3hovq3/14_websites_that_would_make_your_job_search_easier)
 
 ## The 4 Things You Will Do From Here on Out
 
@@ -77,9 +75,7 @@ CLARITY… do not even begin this without being able to answer the question “w
 
 I am a Cyber Security Engineer | Information Security Engineer
 
-If you need help, see this blog post on How to Pick a Career
-
-[https://waitbutwhy.com/2018/04/picking-career.html]
+If you need help, see this blog post on [How to Pick a Career](https://waitbutwhy.com/2018/04/picking-career.html)
 
 If you have no idea what you want to pursue, then it will be impossible to move forward. Even picking a background photo makes no sense if you don’t have an idea of what it is you desire to do.
 
@@ -87,15 +83,13 @@ How Build a Professional LinkedIn Profile
 
 Background Photo:
 
-Grab a free background photo from this website:
-
-[https://pixabay.com/]
+Grab a free background photo from [this website](https://pixabay.com)
 
 Look for a photo that within 3 seconds or less.. says to anybody looking at it..
 
 This is what I do
 
-If you look at mine: [https://www.linkedin.com/in/marccdavid/]
+If you look at mine: [https://www.linkedin.com/in/marccdavid](https://www.linkedin.com/in/marccdavid)
 
 You should thinking.. Computer security stuff? Something to do with cyber crime? IT?
 
@@ -111,9 +105,7 @@ Get a professional photo done, have a friend take one of your shoulders and high
 
 There are blogs, pages and sections of entire books about this. Just have or get a nice, higher quality good looking, fresh haircut.. photo. People judge. Don’t give them a single reason not to keep looking because you have a goofy photo.
 
-I found this post helpful in my search:
-
-[https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries/]
+I found [this post](https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries) helpful in my search
 
 Title:
 Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist | Dad Wife Husband Father
@@ -171,9 +163,7 @@ Your title is your gateway to your summary! Don’t write about what you did and
 
 Use keywords you’ve found in saved jobs to add depth to your summary.
 
-I found this profile helpful in my search:
-
-[https://www.linkedin.com/in/aaronloo/]
+I found [this profile](https://www.linkedin.com/in/aaronloo) helpful in my search:
 
 Interesting reading, very relevant to what he does now, what he can do for you and a short list of powerful keyword rich technology skills. How he got to where he was and what he does on the side. A very good story rich with relevant skills for a current position.
 
@@ -186,7 +176,7 @@ Titles matter especially for keyword searching. Be as specific as possible. If y
 
 VP; Consultant Sys Engineer is NOT a relevant useful helpful search title
 
-Sr. SharePoint Architect IS
+Senior SharePoint Architect IS
 
 Take the time to fully write out your roles and responsibilities. Add depth, descriptive text and bullet points to what you did. If possible, work those desired position keywords into previous roles if applicable. Remember, LinkedIn is a Search Engine. To rank, you need to make page stand out for the keywords you want to be seen for and in your Experience section, it’s a good way to get technical terms in along with soft skills.
 
@@ -237,7 +227,7 @@ By using this technique even if it’s for the same type of work.. you’ll have
 It’s not lying if you’re doing it and it’s a way to make a transition easier.
 
 Get a Business Name & Logo with this Fiverr Gig
-[https://www.fiverr.com/share/ApDX5]
+[https://www.fiverr.com/share/ApDX5](https://www.fiverr.com/share/ApDX5)
 
 Education
 Just add in whatever schools you attended. Not much to put here. Do not include your high school unless you are a high school graduate looking for internship work.
@@ -270,13 +260,11 @@ This is a great time to talk about an app I love and used 100% for the job searc
 
 “Sudo identities are a digital extension of you that shield your personal and private information from strangers, corporations, and the rest of the online world.”
 
-Get the app called Sudo for the iPhone!
-
-[https://mysudo.com/]
+Get the app called [Sudo](https://mysudo.com) for the iPhone / Android
 
 Create a card, and pick a phone number and email address. This will be the email and phone number you put on your resume and on LinkedIn for the contact details.
 
-Sorry Android users, not out yet but for those on the iPhone, it’s awesome. Get a free number and email and use this Sudo (job avatar) for all your needs. You can call from it, get calls to it, send emails and texts. When your number gets scraped or taken off your resume and you aren’t in job mode, you’ll be glad you used a Sudo number and not your actual cell phone.
+Get a free number and email and use this Sudo (job avatar) for all your needs. You can call from it, get calls to it, send emails and texts. When your number gets scraped or taken off your resume and you aren’t in job mode, you’ll be glad you used a Sudo number and not your actual cell phone.
 
 This is your Job Sudo and you’ll compartmentalize your entire job searching to this one point of contact.
 
@@ -292,7 +280,7 @@ Take a look at this website that will help you create a script for salary negoti
 
 There’s a formula for this stuff including a counter offer. This site helped me get a good talking point script down and a good mindset of how to approach the salary question. In the end, I bought the $47 template pack when I was offered a job (lower than what I wanted) and the counter offer template got me an extra $15,000 a year. So I’d say the $47 was money very well spent.
 
-[https://fearlesssalarynegotiation.com/]
+[https://fearlesssalarynegotiation.com](https://fearlesssalarynegotiation.com)
 
 I think it’s imperative you read this site as much as possible to create your script. When you talk to recruiters, they’ll want you to answer a number right away. They are gatekeepers. If you blurt out a number, you may low-ball yourself. Best to just stick to a script to avoid a number especially when you’ve heard nothing about the opportunity!
 
@@ -318,8 +306,7 @@ I don’t think my Facebook page had anything negative at all. But recruiters or
 
 In my methodical approach, I wanted to eliminate anything I couldn’t control.
 
-The Job Hound
-[https://jobhound.io/]
+[The Job Hound](https://jobhound.io)
 
 This helped keep track of the places I needed to apply, places I applied, what was in the queue, etc. It’s simple, it’s free and you’ll do just the basics of keeping track of what’s happening.
 
@@ -360,7 +347,7 @@ At this point you will save this version of your resume as a Baseline. It’s wh
 
 I had about 50 versions of my resume! I’d take my baseline, look at a job, copy and paste my resume and their job description and see if I could write my resume better to match what they were looking for in the position. Does it work? It doesn’t hurt. It might get you past the ATS (Applicant Tracking System) when some computer is looking for a high percentage of matches on keywords.
 
-My go to site was [https://jobscan.co]
+My go to site was [JobScan](https://jobscan.co)
 
 I’d take my baseline, their job description, and see how I scored. Then I’d add in and remove and re-write as much as possible within reason to get a higher score. I saved my new resume in a folder for that company and that is what I used to apply. Always keeping my baseline fresh and updated in general but using this method per position.
 

@@ -429,29 +429,19 @@ Need to sum it up.
 
 Resources
 
-Amazon Interview Insights:
+[Linked: Conquer LinkedIn. Get Your Dream Job. Own Your Future](https://amzn.to/3ddXiGh)
 
-https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon
+[Amazon Interview Insights](https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon)
 
-JobHound Job Tracker:
+[JobHound Job Tracker](https://jobhound.io/)
 
-https://jobhound.io/
+[Jobscan.co Resume Improvement](https://www.jobscan.co/)
 
-Jobscan.co Resume Improvement:
+[Glassdoor.com Company, Salary and Interviews](https://www.glassdoor.com/)
 
-https://www.jobscan.co/
+[MySudo](https://mysudo.com/)
 
-Glassdoor.com Company, Salary and Interviews:
-
-https://www.glassdoor.com/
-
-MySudo:
-
-https://mysudo.com/
-
-Salary Negotiation:
-
-https://fearlesssalarynegotiation.com/
+[Salary Negotiation](https://fearlesssalarynegotiation.com)
 
 Sample Thank You Letters
 

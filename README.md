@@ -397,7 +397,7 @@ Listen Listen Listen!
 
 I need to detail this out. But what you’ll hear in these interviews are situations, concepts, questions that you’ll hear again and again. They’re interviewing you but you’re also interviewing them! This is a unique opportunity to gather details on their company that you can apply to the next interview. If you keep hearing certain acronyms, or repeated questions, find the answer, learn about it and add it to your position statement.
 
-STAR Answer Format
+## STAR Answer Format
 
 The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of what you're describing. Many places will ask for this type of format or maybe a SOAR (Situation, Objective, Action, Result). Esentially it’s a method of figuring out if what you did, fits the culture. A series of behavior questions to see if you fit the company’s principles. Plus it’s a way to understand bullet points in your resume.
 
@@ -407,19 +407,19 @@ Write 1-2 per day. You’ll have so many talking points, you’ll need to refer 
 
 Here’s what it looks like
 
-SITUATION
+**SITUATION**
 
 Describe the situation that you were in, or the task that you needed to accomplish. Give enough detail for the interviewer to understand the complexities of the situation. This example can be from a previous job, school project, volunteer activity, or any relevant event.
 
-TASK
+**TASK**
 
 What goal were you working toward?
 
-ACTION
+**ACTION**
 
 Describe the actions you took to address the situation with an appropriate amount of detail, and keep the focus on you. What specific steps did you take? What was your particular contribution? Be careful that you don’t describe what the team or group did when talking about a project. Let us know what you actually did. Use the word “I,” not “we,” when describing actions.
 
-RESULT
+**RESULT**
 
 Describe the outcome of your actions and don’t be shy about taking credit for your behavior. What happened? How did the event end? What did you accomplish? What did you learn? Provide examples using metrics or data if applicable.
 
@@ -463,7 +463,7 @@ https://www.livecareer.com/career/advice/interview/sample-thank-you-letters
 
 https://www.businessnewsdaily.com/5578-sample-thank-you-letters.html
 
-Privacy Policy
+### Privacy Policy
 There are on tracking scripts of any kind of this site. There are no ads. I am asking for anything and I am collecting nothing. I do not rent or sell anything obtained from this site.  This site is hosted on Github.
 
-All Rights Reserved Copyright 2022
+*All Rights Reserved Copyright 2022*

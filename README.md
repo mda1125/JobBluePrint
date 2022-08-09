@@ -233,8 +233,8 @@ By using this technique even if it’s for the same type of work.. you’ll have
 
 It’s not lying if you’re doing it and it’s a way to make a transition easier.
 
-Get a Business Name & Logo with this Fiverr Gig
-[https://www.fiverr.com/share/ApDX5](https://www.fiverr.com/share/ApDX5)
+Get a Business Name & Logo with a Fiverr Gig
+[http://www.fiverr.com/s2/d5fdb31044](http://www.fiverr.com/s2/d5fdb31044)
 
 Education
 Just add in whatever schools you attended. Not much to put here. Do not include your high school unless you are a high school graduate looking for internship work.

@@ -35,11 +35,11 @@ Here are the days of gatekeepers that have not a clue what the hiring manager wa
 
 ## What Can You Do?!
 
-So what can you do? Lots! First, unless you flat out know somebody who is willing to hire you or give you an immediate consulting gig, you are in for a long journey. Of course there are variables and exceptions but don’t expect something quick. It might be Job Applied #10 or Job Applied #800 or somewhere in between.  Frankly if you are applying for 800 targeted jobs, it might be you and not them.  Which means this guide is even more valuable.
+Lots! First, unless you flat out know somebody who is willing to hire you or give you an immediate consulting gig, you are in for a long journey. Of course there are variables and exceptions but don’t expect something quick. It might be Job Applied #10 or Job Applied #800 or somewhere in between.  Frankly if you are applying for 800 targeted jobs, it might be you and not them.  Which means this guide is even more valuable.
 
 ## How Long is Long?
 
-1 month if you’ve got major bonus points like Veteran status plus in an area that is in critical need of qualifed people like yourself and 17+ if you are older, a very competitive market, command a large salary, lateral moves, etc. Maybe it will be faster for you. Maybe longer. Doesn’t matter. Petal to the metal until you find a fit. It doesn’t mean anything if you get a job quick or it takes much longer. It says nothing about you! Remember that one because after you’ve been looking for over 3 months, you start to think it’s you. I can assure you in 90% of the cases, if you are serious about career hunting and you are putting forth the effort, and you've got a top notch resume and LinkedIn presence it is not you.
+1 month if you’ve got major bonus points like Veteran status plus in an area that is in critical need of qualifed people like yourself and 17+ months if you are older, a very competitive market, command a large salary, lateral moves, terrible resume, can't interview, etc. Maybe it will be faster for you. Maybe longer. Doesn’t matter. Petal to the metal until you find a fit. It doesn’t mean anything if you get a job quick or it takes much longer. It says nothing about you! Remember that one because after you’ve been looking for over 3 months, you start to think it’s you. I can assure you in 90% of the cases, if you are serious about career hunting and you are putting forth the effort, and you've got a top notch resume and LinkedIn presence it is not you.
 
 + It took me 7 months of dedicated, focused job searching and 84 targeted job applications to land 1.
 + More recently, I worked with a client and it took 37 days and 48 targeted jobs applications to land 3
@@ -48,7 +48,7 @@ I had several phone screens and 7 on-sites. Those type of on-sites were foreign 
 
 I tell people that in my opinion, it felt more like I was going for acting gigs than an actual job interview. I had to figure out what those people across from me wanted in a candidate and be that person. I wasn’t worried about my technical skills. But they know nothing about you and it’s up to you to convince them otherwise. How do I convince these people I am the person for this role.
 
-### Where Do You Find Jobs?
+## Where Do You Find Jobs?
 
 I was selective in where I posted my information and I was quick to delete or remove my profile if I was getting contacted by too many inept recruiters. I started with **LinkedIn** and eventually landed the job via **Indeed**. It really depends on your industry. Being in the tech field, it was much easier I think to find and apply for those type of jobs than others but not impossible. Look to industry type job boards via a Google or DuckDuckGo search.
 
@@ -71,7 +71,9 @@ I ALWAYS ended up applying direct to the company website even if I found the job
 
 Alright, enough chit chat. You might be seeking while in a job (that’s the best) or you quit and are looking or laid off and are anxious, excited.. or frustrated, pissed, depressed.. in the end, everybody goes through the stages. I had plenty of wild highs and super lows. What makes this work is the system outlined below, being a robot about it and moving forward at all costs no matter the setbacks. Eventually and I speak from experience, you will take nothing personal and you’ll be so busy, that after your on-site you’ll be too busy making plans for the next to worry about if they’ve gotten back to you or not.
 
-CLARITY… do not even begin this without being able to answer the question “what is it that I want to do.” When somebody says “Hey, what do you do?” You say… XXXX
+**But First a Moment of Clarity**
+
+Do not even begin this without being able to answer the question “what is it that I want to do.” When somebody says “Hey, what do you do?” You say… XXXX
 
 I am a Cyber Security Engineer | Information Security Engineer
 
@@ -79,9 +81,9 @@ If you need help, see this blog post on [How to Pick a Career](https://waitbutwh
 
 If you have no idea what you want to pursue, then it will be impossible to move forward. Even picking a background photo makes no sense if you don’t have an idea of what it is you desire to do.
 
-How Build a Professional LinkedIn Profile
+## How Build a Professional LinkedIn Profile
 
-Background Photo:
+**Background Photo:**
 
 Grab a free background photo from [this website](https://pixabay.com)
 
@@ -99,7 +101,7 @@ Get a photo that says.. This is What I Do. It doesn’t have to be 100% specific
 
 Again, not exact unless you can find it but something that immediately gives the impression to whomever is looking that I am the person to do that!
 
-Profile Photo:
+**Profile Photo:**
 
 Get a professional photo done, have a friend take one of your shoulders and higher. Or a closer head shot. SMILING. Giving the impression this is a person I could work with. No tuxes. No wedding photos. No you holding your kid(s). No couple shots. It’s a professional website and YOU are in job seeking mode. Mine isn’t the best. But it’s good. I cropped it from a recent family photo shoot. Do something similar.
 
@@ -107,7 +109,8 @@ There are blogs, pages and sections of entire books about this. Just have or get
 
 I found [this post](https://www.linkedinsights.com/3-stunningly-good-linkedin-profile-summaries) helpful in my search
 
-Title:
+**Title:**
+
 Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist | Dad Wife Husband Father
 
 CRAP!
@@ -117,6 +120,7 @@ CRAP!
 Remove where you currently work if it shows in your title
 
 The Save Job Technique Explained:
+
 If you need ideas, look at the Job icon in LinkedIn and search for careers, titles or things you want to do. Start saving those jobs.
 
 Why save jobs? Because in a few weeks if not today, you’ll have a very large list of keyword rich titles, bullet points, descriptions you can use all thru your own profile to build the perfect profile that matches you up with all these positions.
@@ -152,7 +156,8 @@ When it comes time to really updated your LinkedIn profile with the new gig, thi
 
 Keep those job descriptions because when you do get hired, it’s an excellent place to start immediately by updating your resume and LinkedIn profile! When you start doing more tangible things, you can replace bullets with the heavy hitting specifics. But it’s a great start vs trying to write it yourself when somebody literally wrote it for you.
 
-Your Summary:
+**Your Summary:**
+
 I learned early on and it was confirmed in a career search sessions that LinkedIn is a Search Engine.. if you think of it that way, you optimize your page to be keyword rich with the terms you want to rank for and be found for!
 
 Use as much of the available space as you can to write about who you are, what you can do and your skills. I’ve been people use no summary to summaries full of super high level buzzwords “team player and collaborator.”
@@ -192,15 +197,17 @@ So use the experience section to use what you saved in jobs, your resume and any
 
 In my experience, on a resume especially if you put down HARD facts and figures, you’ll get asked how did you get to that number? It’s a conversation starter. It can backfire but it’s better than very vague buzzwords that leave the reader wondering what you did. It will help with the STAR interview techniques if you have a bullet that eludes to a situation, task, action and result.
 
-The Little Known Tip for Bridging the Gap If You Need It
+## Unauthorized
+
+**The Little Known Tip for Bridging the Gap If You Need It**
 
 (Doesn’t Apply to Those with a Job; No Gaps; or Not Making a Career Shift)
 
-I’m honestly not sure anybody will mention this but it’s used frequently but most always used incorrectly.
+I’m honestly not sure anybody will mention this but it’s used frequently but most always used incorrectly.  And I've read a lot of LinkedIn posts and bought some really high level books that have even more tips than I'm giving you but nobody mentions this one.
 
 Here’s what most people do WRONG. They slap on some “LastName Consulting” like they just started it yesterday because they probably did. It’s a grey box on LinkedIn. Looks ugly. No title. No description. It’s just there.
 
-What you’ll do is this… same general idea but 100% more professional.
+What you’ll do is this ... same general idea but 100% more professional.
 
 CONSULT! Start your own business, give away or get paid for what you want to do. Now when you are interview, you’ve gone from Job B to your own business doing what you love, Job A in a small business fashion. That’s respectable. And depending on the length of time, maybe you’ve really done this for years without it being a conflict of interest.
 
@@ -273,7 +280,7 @@ I can’t recommend this app enough. If you use your personal cell phone, it wil
 Interests
 This rounds out your profile. Join relevant groups. Follow companies. It makes you look like a person who has interests, participates in groups and follows companies in your industry. I don’t honestly think it matters much since it’s so far down but whatever you can do to round out your profile, do it. And maybe there is a group that would be helpful and you should participate. This is part of networking and without that, LinkedIn doesn’t work much. So join groups and follow some companies. Not a ton of them but 10-15 groups and 10 companies in your desired field should be a great start to get your feed populated with some decent posts and networking opportunities.
 
-Before You Proceed ….
+**Before You Proceed**
 
 Salary Negotiation
 Take a look at this website that will help you create a script for salary negotiation. You’re going to be asked almost immediately what are you looking for in terms of salary (annual or hourly). Answering it immediately locks you into a low ball position or asking way too much. If you ask for too much, the recruiter probably won’t even bother submitting you. If it’s too low, you’ll wish you asked for more.
@@ -334,7 +341,7 @@ It’s right in front of you! Saved Jobs are what will work because it’s what 
 To Recap:
 
 + save jobs
-+ pull lines you like
++ pull lines you like and have the skills
 + grab keywords
 + scope out titles and see if your title could be better
 + merge into your profile & resume assuming you have or can talk to those skills

@@ -111,11 +111,11 @@ I found [this post](https://www.linkedinsights.com/3-stunningly-good-linkedin-pr
 
 **Title:**
 
-Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like MCSE | Windows Admin | SharePoint Developer | Technology Evangelist | Dad Wife Husband Father
+Arguably the most important aspect besides how you look is your title. It’s keyword rich and the opportunity to tell the world and your recruiter “This is what I do.” Most people make the mistake of using titles like “Looking for new opportunities” or using keyword long stuffed titles like "MCSE Windows Admin SharePoint Developer Technology Evangelist Dad Wife Husband Father"  These are usually from people who don't use LinkedIn, suck at using it, have had a job for decades and setup a quicky profile years ago or were told to do so.  They are NOT your target baseline profiles to mimmick.
 
 CRAP!
 
-1-2 very focused keywords that are a title of the job you desire to do.  Recruiters look to fill jobs, not find an out of work great dad or best mom in the world.
+1-2 very focused keywords ideally that are a title of the job you desire to do.  Recruiters look to fill jobs, not find an out of work great dad or best mom in the world.
 
 Remove where you currently work if it shows in your title
 

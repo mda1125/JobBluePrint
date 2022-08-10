@@ -168,7 +168,7 @@ Your title is your gateway to your summary! Don’t write about what you did and
 
 Use keywords you’ve found in saved jobs to add depth to your summary.
 
-I found [this profile](https://www.linkedin.com/in/aaronloo) helpful in my search:
+I found [this profile](https://www.linkedin.com/in/edwardcollinson/) helpful in my search:
 
 Interesting reading, very relevant to what he does now, what he can do for you and a short list of powerful keyword rich technology skills. How he got to where he was and what he does on the side. A very good story rich with relevant skills for a current position.
 

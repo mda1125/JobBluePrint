@@ -463,4 +463,4 @@ https://www.businessnewsdaily.com/5578-sample-thank-you-letters.html
 ### Privacy Policy
 There are on tracking scripts of any kind of this site. There are no ads. I am asking for anything and I am collecting nothing. I do not rent or sell anything obtained from this site.  This site is hosted on Github.
 
-*All Rights Reserved Copyright 2022*
+*All Rights Reserved Copyright 2023*
